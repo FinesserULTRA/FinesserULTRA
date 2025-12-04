@@ -7,7 +7,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafahamad26)
   [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mhamad.bese23seecs@seecs.edu.pk)
-  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1f2937?style=flat-square&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.vercel.app)
+  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1f2937?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.mustafahamad.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-Hi! I'm **Mustafa Hamad**, a Software Engineer based in **Islamabad, Pakistan**. I am currently a student at **SEECS, NUST**, bridging the gap between scalable backend architecture and immersive interactive experiences.
+Hi! I'm **Mustafa Hamad**, a Software Engineer based in **Pakistan**. I am currently a student at **SEECS, NUST**, bridging the gap between scalable backend architecture and immersive interactive experiences.
 
 I specialize in building high-performance systems, whether that's processing 10GB of data in minutes or rendering physics-based particles in a game engine.
 
@@ -80,17 +80,16 @@ Here are some of the high-impact systems I've engineered:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/FinesserULTRA">
-  <img src="https://github-readme-stats.vercel.app/api?username=FinesserULTRA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Mustafa's GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/FinesserULTRA">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinesserULTRA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180"/>
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FinesserULTRA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/FinesserULTRA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinesserULTRA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/FinesserULTRA)
+
 </div>
+
 <div align="center">
-  <a href="https://github.com/FinesserULTRA">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FinesserULTRA&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="180"/>
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FinesserULTRA&theme=radical&hide_border=true&background=0d1117)](https://github.com/FinesserULTRA)
+
 </div>
 
 ---
