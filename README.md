@@ -1,6 +1,6 @@
 <!-- Title / Banner Area -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Mustafa%20Hamad&fontSize=80&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Game%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn" alt="Mustafa Hamad Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Mustafa%20Hamad&fontSize=80&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Game%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn&font=Georgia&fontColor=D4AF37" alt="Mustafa Hamad Banner" />
 </div>
 
 <div align="center">
@@ -80,16 +80,9 @@ Here are some of the high-impact systems I've engineered:
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FinesserULTRA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/FinesserULTRA)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FinesserULTRA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/FinesserULTRA)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=FinesserULTRA&theme=radical&hide_border=true&background=0d1117)](https://github.com/FinesserULTRA)
-
+  <a href="https://github.com/FinesserULTRA">
+  <img src="https://streak-stats.demolab.com?user=FinesserULTRA&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="180"/>
+  </a>
 </div>
 
 ---
