@@ -7,7 +7,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafahamad26)
   [![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mhamad.bese23seecs@seecs.edu.pk)
-  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1f2937?style=flat-square&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.vercel.app)
+  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1f2937?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.mustafahamad.com)
 
 </div>
 
